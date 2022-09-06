@@ -1,0 +1,4 @@
+number,host,life.stage,sex,frozen.date,extraction.date,mass(mg),abs1,abs2,abs3,abs4,absAVG,ug,ug.vol.correct,ug.mg
+1000,sub,3,male,1/1/20,1/2/20,0,0,0,0,0,0,0,0,0
+1001,sub,4,female,1/1/20,1/2/20,0,0,0,0,0,0,0,0,0
+1002,sub,5,male,1/1/20,1/2/20,0,0,0,0,0,0,0,0,0
